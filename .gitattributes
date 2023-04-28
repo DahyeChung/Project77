@@ -1,1 +1,1 @@
-Content/Megapack filter=lfs diff=lfs merge=lfs -text
+Content/Megapack/**/* filter=lfs diff=lfs merge=lfs -text
